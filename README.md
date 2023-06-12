@@ -1,2 +1,2 @@
 # rusteinberg.github.io
-Richard Steinberg main site
+Richard U. Steinberg main site
